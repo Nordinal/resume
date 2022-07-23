@@ -14,11 +14,15 @@
 }
 
 :root{
-    --main-blue: #8BBFB2;
+    --main-blue: #77A6F7;
+    --main-orange: #f8F8F8;
+    --main-gray: #F8F8F8;
+    --main-bodily: #D3E3FC;
+}
+/* --main-blue: #8BBFB2;
     --main-orange: #F5B659;
     --main-gray: #F8F8F8;
-    --main-bodily: #F1EDBD;
-}
+    --main-bodily: #F1EDBD; */
 
 .container{
     width: 100%;
