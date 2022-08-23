@@ -20,7 +20,7 @@ function visabilityModule(bool){
     }
 }
 
-function inNewWindow(href){
+function moveLocaleBlank(href){
     window.open(href, '_blank')
     visabilityModule(false)
 }
@@ -28,3 +28,4 @@ function inNewWindow(href){
 function moduleWindow(event){
     event.stopPropagation()
 }
+
